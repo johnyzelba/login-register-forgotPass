@@ -6,7 +6,6 @@ One page Login, Register and Password Recovery, React component. made with trans
 
 
 ![Demo](https://raw.githubusercontent.com/johnyzelba/login-register-forgotPass/master/demo.gif)
-Format: ![Alt Text](url)
 
 
 ## Available Scripts
