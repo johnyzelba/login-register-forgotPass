@@ -1,3 +1,13 @@
+## Login, Register, Password Recovery One Page
+
+One page Login, Register and Password Recovery, React component. made with transition effects and UI in mind :)
+
+### Demo
+
+
+![Demo](https://raw.githubusercontent.com/johnyzelba/login-register-forgotPass/master/demo.gif)
+Format: ![Alt Text](url)
+
 
 ## Available Scripts
 
