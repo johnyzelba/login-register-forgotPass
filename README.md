@@ -1,6 +1,6 @@
 ## Login, Register, Password Recovery One Page
 
-One page Login, Register and Password Recovery, React component.
+One page Login, Register and Password Recovery as a React.js component.
 made with transition effects and UI in mind :)
 
 ### Demo
